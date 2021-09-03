@@ -1,0 +1,36 @@
+<head>
+    <Style>
+        h1 {
+            text-align: center;
+        }
+
+        h2 {
+            font-weight: bold;
+        }
+
+        p1{
+            color: red;
+        }
+
+        p2{
+            color: blue;
+        }
+
+        p3{
+            color: green;
+        }
+
+        p4{
+            font-size: 30px;
+            color: black;
+        }
+
+        p5{
+            font-size: 10px;
+        }
+
+        p6{
+            text-align: center;
+        }
+
+    
